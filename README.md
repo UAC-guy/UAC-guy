@@ -4,6 +4,7 @@
 	-  You can reach me on Discord at UAC guy#8057
 	-  I am currently working on a partial conversion for GZDoom called "100 Portals to Hell". If you want to play the unfinished(and slightly unplayable) version, use this link:
 		https://www.mediafire.com/file/4odej0ujajaz1db/100_Portals_to_Hell_v1.9.wad/file
+	-I get most of my work(on GitHub) done on Sunday afternoon(the only time it appears that I'm free for the forseeable future)
 	- If you want to watch my Youtube videos, use this link:
 		- https://www.youtube.com/channel/UCPvq2-7sVLdgCxNKWKze5iA
 	- If you want to check out my Steam group, use this link:
