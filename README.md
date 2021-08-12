@@ -7,7 +7,7 @@
 	- If you want to check out my Steam group, use this link:
 		- https://steamcommunity.com/groups/AnomolyDetectionUnit
 	- If you want to join my Discord server, use this link:
-		- https://discord.gg/F5na8wNR
+		- https://discord.gg/gMYYAsg9zH
 	- If you want to join my friend and I's Subreddit, use this link:
 		- https://www.reddit.com/r/pillowz_uac/
 -Thanks for reading, and have a good day.
